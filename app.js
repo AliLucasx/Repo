@@ -33,3 +33,4 @@ collectiblesobjeto.listFigures();
 //ejemplo de la segunda funcion:)
 console.log("Figuras de la marca Hot Toys:");
 console.log(collectiblesobjeto.figuresByBrand("Hot Toys"));
+console.log("hola")
